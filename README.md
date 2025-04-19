@@ -1,4 +1,4 @@
-# wether-report
+# weather-report
 A sleek and responsive weather forecast web application built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. It provides current weather conditions, real-time date and time, and a 5-day weather forecast for your location.
 
 # Features
